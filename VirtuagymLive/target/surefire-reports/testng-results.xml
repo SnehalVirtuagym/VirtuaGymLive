@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1539" started-at="2017-06-22T08:45:10Z" finished-at="2017-06-22T08:45:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1539" started-at="2017-06-22T08:45:10Z" finished-at="2017-06-22T08:45:12Z">
+      <class name="Membership.Create_Membership">
+        <test-method status="PASS" signature="Invoke_Browser()[pri:0, instance:Membership.Create_Membership@566776ad]" name="Invoke_Browser" is-config="true" duration-ms="6573" started-at="2017-06-22T10:45:04Z" finished-at="2017-06-22T10:45:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invoke_Browser -->
+        <test-method status="PASS" signature="AddMembership()[pri:0, instance:Membership.Create_Membership@566776ad]" name="AddMembership" duration-ms="1531" started-at="2017-06-22T10:45:10Z" description="creates membership" finished-at="2017-06-22T10:45:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddMembership -->
+      </class> <!-- Membership.Create_Membership -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
