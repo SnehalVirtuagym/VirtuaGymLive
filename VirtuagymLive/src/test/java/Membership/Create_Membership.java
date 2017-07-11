@@ -11,7 +11,7 @@ import PageWise_UIElements.CreateMembershipPage;
 
 public class Create_Membership extends Base.Driver_Invocation {
 	
-	 File file= new File("D:\\New Workspace\\VirtuagymLive\\Membership.properties");
+	 File file= new File("D:\\Git VirtuaGymLive\\VirtuagymLive\\Membership.properties");
 	 
 	
      public void Redirect_createMembership() throws Exception
@@ -34,7 +34,6 @@ public class Create_Membership extends Base.Driver_Invocation {
     	 
     	 mp.MembershipName.sendKeys(prop.getProperty("MembershipName"));
     	 mp.Duration.sendKeys(prop.getProperty("Duration"));
-    	 
     	 
      }
 

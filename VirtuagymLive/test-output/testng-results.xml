@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="1435" started-at="2017-06-22T08:36:01Z" finished-at="2017-06-22T08:36:02Z">
+  <suite name="Suite" duration-ms="2433" started-at="2017-07-11T09:04:57Z" finished-at="2017-07-11T09:04:59Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="1435" started-at="2017-06-22T08:36:01Z" finished-at="2017-06-22T08:36:02Z">
+    <test name="Test1" duration-ms="2433" started-at="2017-07-11T09:04:57Z" finished-at="2017-07-11T09:04:59Z">
       <class name="Membership.Create_Membership">
-        <test-method status="PASS" signature="Invoke_Browser()[pri:0, instance:Membership.Create_Membership@548e7350]" name="Invoke_Browser" is-config="true" duration-ms="7898" started-at="2017-06-22T10:35:53Z" finished-at="2017-06-22T10:36:01Z">
+        <test-method status="PASS" signature="Invoke_Browser()[pri:0, instance:Membership.Create_Membership@544fe44c]" name="Invoke_Browser" is-config="true" duration-ms="5972" started-at="2017-07-11T11:04:51Z" finished-at="2017-07-11T11:04:57Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Invoke_Browser -->
-        <test-method status="PASS" signature="AddMembership()[pri:0, instance:Membership.Create_Membership@548e7350]" name="AddMembership" duration-ms="1422" started-at="2017-06-22T10:36:01Z" description="creates membership" finished-at="2017-06-22T10:36:02Z">
+        <test-method status="PASS" signature="AddMembership()[pri:0, instance:Membership.Create_Membership@544fe44c]" name="AddMembership" duration-ms="2420" started-at="2017-07-11T11:04:57Z" description="creates membership" finished-at="2017-07-11T11:04:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddMembership -->
       </class> <!-- Membership.Create_Membership -->
-    </test> <!-- Test -->
+    </test> <!-- Test1 -->
   </suite> <!-- Suite -->
 </testng-results>
